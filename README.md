@@ -1,4 +1,4 @@
-# Energywatchapi API
+# Energy Watch API
 
 ## Requirements
 django 3.0.8 <br> 
