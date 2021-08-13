@@ -7,7 +7,7 @@ python >= 3.6.*
 ## Setup
 `virtualenv myenv --python=python3` <br> <br>
 `source myenv/bin/activate` <br> <br>
-`cp weddylistapi/settings/example_env weddylistapi/settings/.env` <br> 
+`cp energywatchapi/settings/example_env energywatchapi/settings/.env` <br> 
 Replace with correct environment variables <br> <br>
 `pip install -r requirements.txt`
 
