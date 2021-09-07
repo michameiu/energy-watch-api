@@ -1,0 +1,10 @@
+*.pyc
+energywatchapi/settings/local.py
+mydatabase
+generateTemplate.sh
+.idea/
+client/management
+build/
+generateTemplate.sh
+
+
